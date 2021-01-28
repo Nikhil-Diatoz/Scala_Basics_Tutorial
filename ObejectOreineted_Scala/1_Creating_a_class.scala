@@ -2,7 +2,7 @@ package ObejectOreineted_Scala
 
 //defining a class
 class Creating_a_class {
-  def Test(): Unit={//Unit is simpler to void function
+  def Test(): Unit={//Unit is Similar to void function
     /* A simple function for printing any message */
     println("My Message")
   }
