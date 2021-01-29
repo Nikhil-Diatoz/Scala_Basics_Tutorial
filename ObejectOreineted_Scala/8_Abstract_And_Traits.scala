@@ -1,4 +1,4 @@
-package com.sundogsoftware.spark
+package ObejectOreineted_Scala
 
 /**Traits are used to define object types by specifying the
  signature of the supported methods. Scala also allows traits to be partially
